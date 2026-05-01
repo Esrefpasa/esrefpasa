@@ -16,7 +16,7 @@
 <br>
 
 <div align="center">
-  <img src="https://i.pinimg.com/736x/1c/36/ce/1c36ce96f369b991b5b48022c4cffd99.jpg" width="580" alt="BulletART" style="border: 4px solid #ff0040; border-radius: 10px;"/>
+  <img src="https://i.pinimg.com/736x/1c/36/ce/1c36ce96f369b991b5b48022c4cffd99.jpg" width="380" alt="BulletART" style="border: 4px solid #ff0040; border-radius: 10px;"/>
 </div>
 
 <br>
