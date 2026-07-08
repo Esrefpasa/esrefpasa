@@ -28,7 +28,7 @@
 <br>
 
 <div align="center">
-  <img src="https://i.hizliresim.com/r8k2dub.gif"
+  <img src="https://i.ibb.co/1YVL0nVz/ART.png"
        width="340"
        height="540"
        alt="BulletART"
