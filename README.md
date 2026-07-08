@@ -28,7 +28,7 @@
 <br>
 
 <div align="center">
-  <img src="https://s13.gifyu.com/images/bdYVu.gif"
+  <img src="https://i.ibb.co/bRv4PJZH/artikcizgikalkti-1.gif"
        width="340"
        height="540"
        alt="BulletART"
