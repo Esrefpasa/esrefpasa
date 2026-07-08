@@ -28,9 +28,9 @@
 <br>
 
 <div align="center">
-  <img src="https://i.ibb.co/1YVL0nVz/ART.png"
-       width="340"
-       height="540"
+  <img src="https://i.ibb.co/Y7v6SMwh/images.jpg"
+       width="320"
+       height="420"
        alt="BulletART"
        style="border: 4px solid #ff0040; border-radius: 10px;"/>
 </div>
