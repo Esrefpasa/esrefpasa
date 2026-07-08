@@ -2,6 +2,18 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,100:ff0040&height=250&section=header&text=BulletART&fontSize=85&fontColor=ff0040&animation=twinkling&fontAlignY=45&stroke=ff0040&strokeWidth=2&font=Orbitron" alt="BulletART Header"/>
 </div>
 
+<div align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=3000&pause=1500&color=FF0040&center=true&vCenter=true&width=600&lines=Merhaba%2C+ben+Esrefpasa;%22Para+yine+ko%C5%9Ftur%2C+aileni+%C3%BCzme%22" alt="Typing SVG" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <sub>💬 <b>Motto:</b> <i>"Para yine koştur, aileni üzme."</i></sub>
+</div>
+
 <br>
 
 <div align="center">
@@ -16,10 +28,16 @@
 <br>
 
 <div align="center">
-  <img src="https://i.pinimg.com/736x/1c/36/ce/1c36ce96f369b991b5b48022c4cffd99.jpg" width="380" alt="BulletART" style="border: 4px solid #ff0040; border-radius: 10px;"/>
+  <img src="https://s13.gifyu.com/images/bdYVu.gif"
+       width="340"
+       height="540"
+       alt="BulletART"
+       style="border: 4px solid #ff0040; border-radius: 10px;"/>
 </div>
 
 <br>
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -32,11 +50,24 @@
 
 <br>
 
+## 📊 GitHub İstatistikleri
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Esrefpasa&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff0040&icon_color=ff0040&text_color=c9d1d9" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esrefpasa&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff0040&text_color=c9d1d9" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Esrefpasa&theme=radical&hide_border=true&background=0d1117&ring=ff0040&fire=ff0040&currStreakLabel=ff0040" width="60%" />
+</div>
+
+<br>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Esrefpasa&label=Profile%20Views&color=ff0040&style=for-the-badge" alt="views"/>
 </div>
 
+<br>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0040,100:0d1117&height=100&section=footer" alt="BulletART Footer"/>
