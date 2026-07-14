@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=3000&pause=1500&color=FF0040&center=true&vCenter=true&width=600&lines=Merhaba%2C+ben+Esrefpasa;%22Para+yine+ko%C5%9Ftur%2C+aileni+%C3%BCzme%22" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=3000&pause=1500&color=FF0040&center=true&vCenter=true&width=600&lines=Merhaba%2C+ben+Esrefpasa" alt="Typing SVG" />
   </a>
 </div>
 
