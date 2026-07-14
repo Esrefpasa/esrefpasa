@@ -10,10 +10,6 @@
 
 <br>
 
-<div align="center">
-  <sub>💬 <b>Motto:</b> <i>"Para yine koştur, aileni üzme."</i></sub>
-</div>
-
 <br>
 
 <div align="center">
