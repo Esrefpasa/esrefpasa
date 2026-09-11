@@ -16,7 +16,7 @@
   <a href="https://github.com/Esrefpasa">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=ff0040"/>
   </a>
-  <a href="https://discordapp.com/users/1435378424133980210">
+  <a href="https://discordapp.com/users/1523836788173570100">
     <img src="https://img.shields.io/badge/Discord-av.yektatilmen-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </div>
