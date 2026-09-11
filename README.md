@@ -24,7 +24,7 @@
 <br>
 
 <div align="center">
-  <img src="https://i.ibb.co/Y7v6SMwh/images.jpg"
+  <img src="https://pbs.twimg.com/media/FHS72sOXEAsh3TP.jpg"
        width="320"
        height="420"
        alt="BulletART"
