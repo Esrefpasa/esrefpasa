@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=ff0040"/>
   </a>
   <a href="https://discordapp.com/users/1435378424133980210">
-    <img src="https://img.shields.io/badge/Discord-1tcz-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+    <img src="https://img.shields.io/badge/Discord-av.yektatilmen-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </div>
 
